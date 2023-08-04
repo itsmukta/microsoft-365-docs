@@ -371,6 +371,8 @@ This configuration is available for both the enrolled (MDM) devices as well as u
 1. Admin needs to make **DisableSignOut = true** to disable the sign-out button in the app. Users will not see the sign out button once the policy is pushed.
 1. Click Next and assign this policy to targeted devices/users.
 
+## Device Tagging
+
 ## Configure option to send in-app feedback
 
 Customers now have the option to configure the ability to send feedback data to Microsoft within the Defender for Endpoint app. Feedback data helps Microsoft improve  products and troubleshoot issues.
